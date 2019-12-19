@@ -5,8 +5,8 @@ This repository is a submodule for [buildAPKs](https://github.com/BuildAPKs/buil
 ```
 
 cd && git clone https://github.com/BuildAPKs/buildAPKs
-./buildAPKs/scripts/bash/init/setup.buildAPKs.bash
-./buildAPKs/scripts/build/buildTools.bash
+~/buildAPKs/setup.buildAPKs.bash
+~/buildAPKs/build.developers.tools.bash 
 
 ```
 
