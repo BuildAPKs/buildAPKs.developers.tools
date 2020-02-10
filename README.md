@@ -10,5 +10,5 @@ curl -OL https://github.com/BuildAPKs/buildAPKs/setup.buildAPKs.bash
 
 ```
 
-https://raw.githubusercontent.com/BuildAPKs/buildAPKs/setup.buildAPKs.bash
+https://raw.githubusercontent.com/BuildAPKs/buildAPKs/master/setup.buildAPKs.bash
 <!-- README.md OEF -->
