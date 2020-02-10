@@ -1,6 +1,6 @@
 <link rel="prerender" href="https://buildapks.github.io/buildAPKs.developers.tools//">
 
-## [buildAPKs.developers.tools](https://github.com/BuildAPKs/buildAPKs.developers.tools
+## [buildAPKs.developers.tools](https://github.com/BuildAPKs/buildAPKs.developers.tools)
 
 Android APK developer tools sources that build in [Termux](https://github.com/termux) on Amazon, Android and Chromebook. 
 
