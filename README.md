@@ -8,7 +8,7 @@ This repository is a submodule for [buildAPKs](https://buildapks.github.io/build
 ```
 
 curl -OL https://github.com/BuildAPKs/buildAPKs/setup.buildAPKs.bash
-./setup.buildAPKs.bash
+bash ./setup.buildAPKs.bash
 ~/buildAPKs/build.developers.tools.bash 
 
 ```
