@@ -2,7 +2,7 @@
 
 ## [buildAPKs.developers.tools](https://github.com/BuildAPKs/buildAPKs.developers.tools)
 
-Android APK developer tools sources that build in [Termux](https://github.com/termux) on Amazon, Android and Chromebook. 
+Android APK developer tools sources that build in [Termux](https://github.com/termux) on Amazon, Android, Chromebook and Windows. 
 
 This repository is a submodule for [buildAPKs](https://buildapks.github.io/buildAPKs/).  In order to install it in its' proper place to make applications on smartphone, tablet and TV; copy and paste the following into [Termux](https://github.com/termux):
 ```
