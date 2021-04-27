@@ -1,5 +1,5 @@
-#!/bin/env bash 
-# Copyright 2019-2021 (c) all rights reserved 
+#!/bin/env bash
+# Copyright 2019-2021 (c) all rights reserved
 # by BuildAPKs https://buildapks.github.io ; See LICENSE
 # File ~/RDR/conf/README.md has more information about this file.
 #####################################################################
@@ -17,4 +17,5 @@ _AT_ mikedg1/fullscreen-checker d56f3ff95a888a11d730c1e9ec5bcc332685ad1a
 _AT_ shakalaca/USB-OTG-Manager 3f08acb5d5aadfa1e38ec78138633ac55241281a
 _AT_ ss/android-demo f39147045b71480f5f8d5e86208d7ccd8bf10550
 _AT_ thomasheller/android-notes 615b1c27cbfd66c9a0c683e2e8e430855e06bf34
+_AT_ yigiter/DataMonitor 2c3958228e9b1ed45359b13a7bcbf0e354727d6b
 # ma.bash OEF
