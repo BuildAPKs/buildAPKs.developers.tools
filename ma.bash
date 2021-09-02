@@ -8,6 +8,7 @@ shopt -s nullglob globstar
 . "$RDR"/scripts/bash/shlibs/trap.bash 210 211 212
 cd "$JDR"
 # _AT_ username/repository commit
+_AT_ Fuzion24/Permission-Control 8257b96ca05db6d19dad4cb6103cd5d211e7ccd0
 _AT_ bvalosek/cpuspy 6221a583f95a18b6563c178368fe8cd99fde3949
 _AT_ dmarszk/sdkmanager 6355c02251ce4a9776724eb5e7b51e8a7a08d54d
 _AT_ jack-carter/DeviceExplorer 0e81ed378adc87af95e60978088e92109ace9dbf
