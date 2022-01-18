@@ -21,5 +21,6 @@ _AT_ postNuKe/opendeveloperconsole afccc0db69c9dfa3cb701ed61b045c35ea11bd42
 _AT_ shakalaca/USB-OTG-Manager 3f08acb5d5aadfa1e38ec78138633ac55241281a
 _AT_ ss/android-demo f39147045b71480f5f8d5e86208d7ccd8bf10550
 _AT_ thomasheller/android-notes 615b1c27cbfd66c9a0c683e2e8e430855e06bf34
+_AT_ wenpincui/SensorData 91a371ddb4e775b78254e8d4485998b83a1d45de
 _AT_ yigiter/DataMonitor 2c3958228e9b1ed45359b13a7bcbf0e354727d6b
 # ma.bash OEF
