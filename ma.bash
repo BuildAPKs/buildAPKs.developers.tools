@@ -8,7 +8,9 @@ shopt -s nullglob globstar
 . "$RDR"/scripts/bash/shlibs/trap.bash 210 211 212
 cd "$JDR"
 # _AT_ username/repository commit
+_AT_ 50L1DU5/AndroidReverseShell 97022370c3268da8520f6df25491b25e2be6379a
 _AT_ Fuzion24/Permission-Control 8257b96ca05db6d19dad4cb6103cd5d211e7ccd0
+_AT_ andrew98450/ShellBT 1c81d7f411890c2ab71dc0c7794772e1a48f343a
 _AT_ bvalosek/cpuspy 6221a583f95a18b6563c178368fe8cd99fde3949
 _AT_ denghui1010/android_shell 91c068b69924a871238c2227d47946082dff4470
 _AT_ dmarszk/sdkmanager 6355c02251ce4a9776724eb5e7b51e8a7a08d54d
