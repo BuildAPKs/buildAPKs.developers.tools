@@ -23,4 +23,6 @@ _AT_ ss/android-demo f39147045b71480f5f8d5e86208d7ccd8bf10550
 _AT_ thomasheller/android-notes 615b1c27cbfd66c9a0c683e2e8e430855e06bf34
 _AT_ wenpincui/SensorData 91a371ddb4e775b78254e8d4485998b83a1d45de
 _AT_ yigiter/DataMonitor 2c3958228e9b1ed45359b13a7bcbf0e354727d6b
+_AT_ yussidivnall/Android-Terminal 5ea9b50bd9b5f85f5b2787cf402fe58635b89ae9
+_AT_ yussidivnall/Android-test-1 aba770d546792c50f6ffc173e5dd7ad3a82ddb51
 # ma.bash OEF
